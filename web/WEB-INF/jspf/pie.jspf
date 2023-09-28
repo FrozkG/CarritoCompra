@@ -4,7 +4,7 @@
     <div class="container">
       <div class="row">
         <div class="col-md-4">
-            <img src="./IMG/nombre.png" height="35px">
+            <a href="./index.jsp"><img src="./IMG/nombre.png" height="35px"></a>
           <p>Los Sauces LT J4, San Juan de Lurigancho 15434</p>
           <p>Lima: (01) 625-8000</p>
           <p>OfferLink@hotmail.com</p>
@@ -12,10 +12,10 @@
         <div class="col-md-4">
           <h5>Enlaces Rápidos:</h5>
           <ul class="list-unstyled">
-            <li><a href="#">Nosotros</a></li>
+            <li><a href="./nosotros.jsp">Nosotros</a></li>
             <li><a href="#">Puestos de trabajo</a></li>
             <li><a href="#">Nuestra Política</a></li>
-            <li><a href="#">Contacto</a></li>
+            <li><a href="./contacto.jsp">Contacto</a></li>
           </ul>
         </div>
         <div class="col-md-4">
